@@ -1,4 +1,4 @@
-# Remote-Operations-Ecosystem# Remote-Operations-Ecosystem
+# Remote-Operations-Ecosystem
 
 **Status:** Fully Operational
 
